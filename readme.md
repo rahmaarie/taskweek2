@@ -2,3 +2,4 @@
 
 ## Getting Started
 - Install Git Bash
+- Install Github
